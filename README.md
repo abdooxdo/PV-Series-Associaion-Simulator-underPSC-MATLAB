@@ -11,6 +11,9 @@ Simulates the influence of bypass diodes (assumed ideal)
 Generates I-V and P-V characteristics with multiple (MPPs)
 
 # Applications
+
 This simulator can be used for:
+
 Educational demonstrations of partial shading effects 
+
 Benchmarking PV modeling accuracy under non-uniform irradiance
